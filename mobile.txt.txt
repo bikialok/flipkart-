@@ -1,5 +1,6 @@
 class   Mobile{
     String mname="Vivo";
     double price=12000.00;
-    long imeiNo=67889772829l; 
+    long imeiNo=67889772829l;
+    String color="Black"; 
 }
