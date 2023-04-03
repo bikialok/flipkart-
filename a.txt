@@ -1,2 +1,4 @@
-int a=10;
-int b=20;
+class Mobile{
+    int mname="Vivo 11";
+    double price=12000.00;
+}
