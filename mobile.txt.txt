@@ -1,0 +1,4 @@
+class   Mobile{
+    String mname="Vivo";
+    double price=12000.00; 
+}
